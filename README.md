@@ -7,7 +7,7 @@ Thanks for dropping by, I hope you like what I'm building! I create open-source 
 ## 🚀 My Apps
 
 ### 📱 GitNex – Forgejo & Gitea  
-GitNex lets you stay connected to your Forgejo or Gitea instance wherever you are. Manage issues, check repos, and collaborate—all from your pocket!  
+GitNex lets you stay connected to your Forgejo or Gitea instance wherever you are. Manage issues, check repos, and collaborate, all from your pocket!  
 
 💻 **Source code:** [GitNex on Codeberg](https://codeberg.org/gitnex/GitNex)  
 🌐 **Website:** [gitnex.com](https://gitnex.com)  
@@ -25,15 +25,15 @@ LabNex brings GitLab to your phone so you can manage projects, merge requests, a
 ---
 
 ### 🌐 NexNode – Android app for Linode Cloud Platform
-NexNode helps you manage your virtual private servers effortlessly. Monitor resources and keep an eye on your deployments—all from a clean, mobile-friendly interface.
+NexNode helps you manage your virtual private servers effortlessly. Monitor resources and keep an eye on your deployments, all from a clean and mobile-friendly interface.
 
 🌐 **Website:** [nexnode.swatian.com](https://nexnode.swatian.com)  
 📥 **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.swatian.nexnode.premium)  
 
 ---
 
-### ✉️ NexMail – Simple & Smart Email  
-NexMail is a fresh take on email—lightweight, modern, and designed for clarity. Send and read your emails without the clutter for your self-hosted mail server.
+### ✉️ NexMail – Simple & Modern Webmail  
+NexMail is a fresh take on webmail clients - lightweight, modern, and designed for clarity. Send and read your emails without the clutter for your self-hosted mail server.
 
 💻 **Source code:** [NexMail on Codeberg](https://codeberg.org/nexmail/NexMail)  
 🌐 **Website:** [nexmail.app](https://nexmail.app)  
@@ -42,7 +42,7 @@ NexMail is a fresh take on email—lightweight, modern, and designed for clarity
 ---
 
 ### 📝 Nex Notes – Simple note taking app for Android  
-Nex Notes is a minimal, fast, and sync-friendly notes app. Write, organize, and access your thoughts across devices with ease.
+Nex Notes is a minimal, fast and simple notes app. Write, organize, and access your thoughts anytime.
 
 💻 **Source code:** [Nex Notes on GitHub](https://github.com/Swatian/nexnotes)  
 🌐 **Website:** [nexnotes.swatian.com](https://nexnotes.swatian.com/)  
@@ -51,7 +51,7 @@ Nex Notes is a minimal, fast, and sync-friendly notes app. Write, organize, and 
 
 ## 💖 Support My Work
 
-If you like what I do and want to support me in building more fun and useful apps, consider donating! Every coffee, tip, or subscription helps 💛
+If you like what I do and want to support me in building useful apps, consider donating! Every coffee, tip, or subscription helps 💛
 
 ☕ **Support me on Patreon:** [patreon.com/c/mmarif](https://www.patreon.com/c/mmarif)
 
@@ -59,7 +59,7 @@ If you like what I do and want to support me in building more fun and useful app
 
 ## 🛠️ Want to Contribute?
 
-Most of my projects are open source — feel free to dive into the code, suggest features, report bugs, or even submit a pull request. Let's build together!
+Most of my projects are open source, feel free to dive into the code, suggest features, report bugs, or even submit a pull request. Let's build together!
 
 ---
 
@@ -69,4 +69,4 @@ Have questions or ideas? Reach out! I'd love to hear from you.
 
 📧 **Email:** [hello@swatian.com](mailto:hello@swatian.com)
 
-Thanks for stopping by — now go enjoy those apps! 🎉
+Thanks for stopping by - enjoy those apps! 🎉

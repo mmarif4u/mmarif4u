@@ -41,7 +41,7 @@ NexMail is a fresh take on webmail clients - lightweight, modern, and designed f
 
 ---
 
-### 📝 Nex Notes – Simple note taking app for Android  
+### 📝 Nex Notes – Simple note taking app for Android [Archived]  
 Nex Notes is a minimal, fast and simple notes app. Write, organize, and access your thoughts anytime.
 
 💻 **Source code:** [Nex Notes on GitHub](https://github.com/Swatian/nexnotes)  

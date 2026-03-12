@@ -6,29 +6,43 @@ Thanks for dropping by, I hope you like what I'm building! I create open-source 
 
 ## 🚀 My Apps
 
-### 📱 GitNex – Forgejo & Gitea  
+### 📱 GitNex for Forgejo & Gitea  
 GitNex lets you stay connected to your Forgejo or Gitea instance wherever you are. Manage issues, check repos, and collaborate, all from your pocket!  
 
 💻 **Source code:** [GitNex on Codeberg](https://codeberg.org/gitnex/GitNex)  
 🌐 **Website:** [gitnex.com](https://gitnex.com)  
+📥 **Downloads:** [Downloads](https://codeberg.org/gitnex/GitNex#downloads)  
 📚 **Wiki:** [GitNex Wiki](https://codeberg.org/gitnex/GitNex/wiki)
 
 ---
 
-### 🦊 LabNex – GitLab in Your Pocket  
+### 🦊 LabNex for GitLab
 LabNex brings GitLab to your phone so you can manage projects, merge requests, and issues while on the move. Perfect for devs who are always on the go!  
 
 💻 **Source code:** [LabNex on GitHub](https://github.com/labnex/LabNex)  
 🌐 **Website:** [labnex.app](https://labnex.app)  
+📥 **Downloads:** [Downloads](https://github.com/labnex/LabNex?tab=readme-ov-file#downloads)  
 📚 **Wiki:** [LabNex Wiki](https://github.com/labnex/LabNex/wiki)
+
+---
+
+### 💧 OceanNex – Android app for DigitalOcean
+A powerful native Android app to control your DigitalOcean droplets, domains, managed databases, firewalls, volumes and more...
+
+💻 **Source code:** [OceanNex on Codeberg](https://codeberg.org/swatian/OceanNex)  
+🌐 **Website:** [oceannex.swatian.com](https://oceannex.swatian.com)  
+📥 **Downloads:** [Downloads](https://codeberg.org/swatian/OceanNex#downloads)  
+📚 **Wiki:** [OceanNex Wiki](https://codeberg.org/swatian/OceanNex/wiki)
 
 ---
 
 ### 🌐 NexNode – Android app for Linode Cloud Platform
 NexNode helps you manage your virtual private servers effortlessly. Monitor resources and keep an eye on your deployments, all from a clean and mobile-friendly interface.
 
+💻 **Source code:** [NexNode on Codeberg](https://codeberg.org/swatian/NexNode)  
 🌐 **Website:** [nexnode.swatian.com](https://nexnode.swatian.com)  
-📥 **Download:** [Play Store](https://play.google.com/store/apps/details?id=com.swatian.nexnode.premium)  
+📥 **Download:** [Downloads](https://codeberg.org/swatian/NexNode#downloads)  
+📚 **Wiki:** [NexNode Wiki](https://codeberg.org/swatian/NexNode/wiki)  
 
 ---
 
@@ -41,7 +55,7 @@ NexMail is a fresh take on webmail clients - lightweight, modern, and designed f
 
 ---
 
-### 📝 Nex Notes – Simple note taking app for Android [Archived]  
+### 📝 Nex Notes – Simple note taking app for Android [Archived] 
 Nex Notes is a minimal, fast and simple notes app. Write, organize, and access your thoughts anytime.
 
 💻 **Source code:** [Nex Notes on GitHub](https://github.com/Swatian/nexnotes)  

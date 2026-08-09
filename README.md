@@ -46,15 +46,6 @@ NexNode helps you manage your virtual private servers effortlessly. Monitor reso
 
 ---
 
-### ✉️ NexMail – Simple & Modern Webmail  
-NexMail is a fresh take on webmail clients - lightweight, modern, and designed for clarity. Send and read your emails without the clutter for your self-hosted mail server.
-
-💻 **Source code:** [NexMail on Codeberg](https://codeberg.org/nexmail/NexMail)  
-🌐 **Website:** [nexmail.app](https://nexmail.app)  
-📚 **Wiki:** [NexMail Wiki](https://codeberg.org/nexmail/NexMail/wiki)
-
----
-
 ### 📝 Nex Notes – Simple note taking app for Android [Archived] 
 Nex Notes is a minimal, fast and simple notes app. Write, organize, and access your thoughts anytime.
 
